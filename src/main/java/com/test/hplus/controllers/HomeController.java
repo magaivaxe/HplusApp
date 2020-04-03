@@ -1,14 +1,7 @@
 package com.test.hplus.controllers;
 
-import com.test.hplus.beans.Login;
-import java.util.Arrays;
-import java.util.List;
-
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.ModelAttribute;
-
-import com.test.hplus.beans.User;
 
 @Controller
 public class HomeController {

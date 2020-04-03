@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import com.test.hplus.beans.Product;
 import com.test.hplus.repository.ProductRepository;
-import java.util.concurrent.Callable;
 import javax.servlet.http.HttpServletRequest;
 import org.springframework.core.task.AsyncTaskExecutor;
 import org.springframework.web.context.request.async.DeferredResult;
